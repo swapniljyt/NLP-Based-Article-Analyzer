@@ -1,0 +1,6 @@
+urllib3
+pandas
+requests
+beautifulsoup4
+nltk
+syllables
