@@ -115,7 +115,7 @@ def calculate_average_words_per_sentence(dataframe):
 
     average_words_per_sentence = len(words[0]) /len(sentences[0])
     return average_words_per_sentence
-average_words_per_sentence_result = calculate_average_words_per_sentence(df)              
+          
 
 #Complex Word Count
 
@@ -197,5 +197,5 @@ def calculate_average_word_length(dataframe):
 
     return average_word_length
 
-    
-                
+
+
