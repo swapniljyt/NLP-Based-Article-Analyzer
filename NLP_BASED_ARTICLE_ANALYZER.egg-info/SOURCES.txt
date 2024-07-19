@@ -1,0 +1,6 @@
+README.md
+setup.py
+NLP_BASED_ARTICLE_ANALYZER.egg-info/PKG-INFO
+NLP_BASED_ARTICLE_ANALYZER.egg-info/SOURCES.txt
+NLP_BASED_ARTICLE_ANALYZER.egg-info/dependency_links.txt
+NLP_BASED_ARTICLE_ANALYZER.egg-info/top_level.txt
